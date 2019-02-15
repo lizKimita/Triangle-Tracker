@@ -28,7 +28,7 @@ sideA != sideB           |               |                             |
 sideB != sideC           |               |                             |
 sideC != sideA           |               |                             |
      AND                 |   25,48,50    |   Scalene Triangle          |
-sideA + sideB > sideC OR |               |                             |
+sideA + sideB>sideC OR   |               |                             |
 sideB + sideC>sideA OR   |               |                             |
 sideA + sideC>sideB      |               |                             |
 -------------------------|---------------|-----------------------------|
@@ -47,5 +47,4 @@ This program has been built using HTML to write the content, CSS for styling pur
 For more information, questions,or help using the program, get in touch with me on +254726047102 or email: kimita.wanjiku@gmail.com
 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) 2019 **Elizabeth Wanjiku Kimita**
