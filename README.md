@@ -12,6 +12,20 @@ With this application users input their triangle values and depending on that th
 * Once all the required values are input, a pop-up informing the user of the triangle type will appear.
 * The process can be repeated as many times as one needs with different values
 
+## Program Specification
+  Length value conditions| Input Examples|Output (Type of triangle)
+-------------------------|---------------|-----------------------------
+sideA = sideB            |   45          |  
+sideB = sideC            |   45          |   Equilateral Triangle
+sideC = sideA            |   45          |
+-------------------------|---------------|------------------------------
+sideA = sideB or         | 20, 20 and 37 |
+sideB = sideC or         | 30, 45 and 45 |    Isosceles Triangle
+sideA = sideC)           | 50, 38 and 50 |
+-------------------------|---------------|---------------------------------
+
+
+
 ## Known Bugs
 There are no known bugs in the Tracker.
 
