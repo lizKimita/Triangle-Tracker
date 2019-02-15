@@ -13,5 +13,5 @@ else if (sideA===sideB || sideB===sideC || sideA===sideC) {
 else if (sideA + sideB <= sideC || sideB + sideC<=sideA || sideA + sideC<=sideB) {
   alert ("This is a not a triangle!")
 }
-else {sideA + sideB > sideC || sideB + sideC>sideA || sideA + sideC>sideB)
+else {(sideA!sideB && sideB!sideC && sideA!sideC) && sideA + sideB > sideC || sideB + sideC>sideA || sideA + sideC>sideB)
   alert ("This is a scalene")
