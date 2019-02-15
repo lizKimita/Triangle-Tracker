@@ -1,0 +1,7 @@
+.columns {
+  float: left;
+  column-count: 3;
+}
+.center {
+  text-align: center;
+}
