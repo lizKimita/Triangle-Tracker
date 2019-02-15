@@ -19,7 +19,7 @@ There are no known bugs in the Tracker.
 This program has been built using HTML to write the content, CSS for styling purposes, javasript to create the business logic ensuring that the program works and depending on the users input, the output given is accurate and Markdown for the README page.
 
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+For more information, questions,or help using the program, get in touch with me on +254726047102 or email: kimita.wanjiku@gmail.com
 
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
