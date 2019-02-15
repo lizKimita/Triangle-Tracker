@@ -9,22 +9,33 @@ With this application users input their triangle values and depending on that th
 * The user requires an Internet connection to log into the website.
 * when he/she is ready to input the triangle's values,user clicks the "Find out here" button.
 * There will be a prompt asking the user to enter the values.
-* Once all the required values are input, a pop-up informing the user of the triangle type will appear.
+* Once all the required values are input, a pop-up informing the user of the Triangle type will appear.
 * The process can be repeated as many times as one needs with different values
 
 ## Program Specification
-  Length value conditions| Input Examples|Output (Type of triangle)
--------------------------|---------------|-----------------------------
-sideA = sideB            |   45          |  
-sideB = sideC            |   45          |   Equilateral Triangle
-sideC = sideA            |   45          |
--------------------------|---------------|------------------------------
-sideA = sideB or         | 20, 20 and 37 |
-sideB = sideC or         | 30, 45 and 45 |    Isosceles Triangle
-sideA = sideC)           | 50, 38 and 50 |
--------------------------|---------------|---------------------------------
 
-
+  Length value conditions| Input Examples|  Output (Type of triangle)  |
+-------------------------|---------------|-----------------------------|
+sideA = sideB            |   45          |                             |
+sideB = sideC            |   45          |   Equilateral Triangle      |
+sideC = sideA            |   45          |                             |
+-------------------------|---------------|-----------------------------|
+sideA = sideB or         | 20, 20 and 37 |                             |
+sideB = sideC or         | 30, 45 and 45 |   Isosceles Triangle        |
+sideA = sideC)           | 50, 38 and 50 |                             |
+-------------------------|---------------|-----------------------------|
+sideA != sideB           |               |                             |
+sideB != sideC           |               |                             |
+sideC != sideA           |               |                             |
+     AND                 |   25,48,50    |   Scalene Triangle          |
+sideA + sideB > sideC OR |               |                             |
+sideB + sideC>sideA OR   |               |                             |
+sideA + sideC>sideB      |               |                             |
+-------------------------|---------------|-----------------------------|
+sideA + sideB<= sideC    |               |                             |
+sideB + sideC<=sideA     |   20, 10, 40  |   This is not a Triangle    |
+sideA + sideC<=sideB     |               |                             |
+-------------------------|---------------|-----------------------------|
 
 ## Known Bugs
 There are no known bugs in the Tracker.
