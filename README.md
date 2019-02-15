@@ -26,10 +26,9 @@ sideA = sideC)           | 50, 38 and 50 |                             |
 -------------------------|---------------|-----------------------------|
 sideA != sideB           |               |                             |
 sideB != sideC           |               |                             |
-sideC != sideA           |               |                             |
-     AND                 |   25,48,50    |   Scalene Triangle          |
+sideC != sideA  and      |               |                             |
 sideA + sideB>sideC OR   |               |                             |
-sideB + sideC>sideA OR   |               |                             |
+sideB + sideC>sideA OR   |    25,48,50   |  Scalene Triangle           |
 sideA + sideC>sideB      |               |                             |
 -------------------------|---------------|-----------------------------|
 sideA + sideB<= sideC    |               |                             |
