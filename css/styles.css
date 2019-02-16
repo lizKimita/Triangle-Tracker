@@ -8,10 +8,7 @@
 .boxed {
   border-color: black;
 }
-.button {
-  background-color: green;
 
-}
 h2 {
   text-decoration-line: underline;
   color: green;
@@ -24,5 +21,23 @@ h3 {
 .larger {
   font-size: 25px;
   font-weight: bold;
-  color: orange;
+  color: maroon;
+}
+h1{
+  font-size: 40px;
+  text-decoration: underline;
+}
+.size {
+  font-size: 17px;
+}
+button[type="button"]{
+  background-color: green;
+  color: white;
+  font-size: 25px;
+  border-color: black;
+  padding: 15px 15px;
+  font-weight: bold;
+}
+button:hover {
+  background-color: black;
 }
