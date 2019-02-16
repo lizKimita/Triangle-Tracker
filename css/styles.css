@@ -21,14 +21,13 @@ h3 {
 .larger {
   font-size: 25px;
   font-weight: bold;
-  color: maroon;
 }
 h1{
   font-size: 40px;
   text-decoration: underline;
 }
 .size {
-  font-size: 17px;
+  font-size: 18px;
 }
 button[type="button"]{
   background-color: green;
