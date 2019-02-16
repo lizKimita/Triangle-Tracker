@@ -3,11 +3,11 @@
 #### By **Elizabeth Wanjiku Kimita**
 
 ## Description
-With this application users input their triangle values and depending on that the program gives an output to the users stating what kind of a triangle is described. The triangles can either be equilateral, isosceles, scalene or not a triangle.
+With this application users input their triangle values and depending on that, the program gives an output to the users stating what kind of a triangle is described. The triangles can either be equilateral, isosceles, scalene or not a triangle.
 
 ## Setup/Installation Requirements
 * The user requires an Internet connection to log into the website.
-* when he/she is ready to input the triangle's values,user clicks the "Find out here" button.
+* when he/she is ready to input the triangle's values,the user clicks the "Find out here" button.
 * There will be a prompt asking the user to enter the values.
 * Once all the required values are input, a pop-up informing the user of the Triangle type will appear.
 * The process can be repeated as many times as one needs with different values
@@ -40,10 +40,10 @@ sideA + sideC<=sideB     |               |                             |
 There are no known bugs in the Tracker.
 
 ## Technologies Used
-This program has been built using HTML to write the content, CSS for styling purposes, javasript to create the business logic ensuring that the program works and depending on the users input, the output given is accurate and Markdown for the README page.
+This program has been built using HTML to write the content, CSS for styling purposes, javasript to create the business logic and the user- interface, ensuring that the program works and depending on the user's input, the output given is accurate and Markdown for the README page.
 
 ## Support and contact details
-For more information, questions,or help using the program, get in touch with me on +254726047102 or email: kimita.wanjiku@gmail.com
+For more information, questions,or help using the program, get in touch with me on +254 726 047102 or email: kimita.wanjiku@gmail.com.
 
 ### License
 Copyright (c) 2019 **Elizabeth Wanjiku Kimita**
