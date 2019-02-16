@@ -15,8 +15,8 @@ else if (sideA===sideB || sideB===sideC || sideA===sideC) {
   alert ("This is a scalene");
 }
 else if (sideA + sideB <= sideC || sideB + sideC<=sideA || sideA + sideC<=sideB) {
-  alert ("This is a not a triangle!");
+  alert ("This is a not a Triangle!");
 }
-else alert("Unrecognised character,Please enter a valid number!");
+else alert("Unrecognised Character,Please Enter a Valid Number!");
 }
 };
