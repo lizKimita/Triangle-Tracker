@@ -17,3 +17,12 @@ h2 {
   color: green;
 
 }
+h3 {
+  font-style: italic;
+  font-weight: bolder;
+}
+.larger {
+  font-size: 25px;
+  font-weight: bold;
+  color: orange;
+}
