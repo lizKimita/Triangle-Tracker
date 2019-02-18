@@ -32,8 +32,8 @@ sideB + sideC>sideA OR   |    25,48,50   |  Scalene Triangle           |
 sideA + sideC>sideB      |               |                             |
 -------------------------|---------------|-----------------------------|
 sideA + sideB<= sideC    |               |                             |
-sideB + sideC<=sideA     |   20, 10, 40  |   This is not a Triangle    |
-sideA + sideC<=sideB     |               |                             |
+sideB + sideC<=sideA     |   20, 10, 50  |   This is not a Triangle    |
+sideA + sideC<=sideB     |   20, 10, 30  |                             |
 -------------------------|---------------|-----------------------------|
 
 ## Known Bugs
